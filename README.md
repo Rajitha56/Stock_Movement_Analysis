@@ -82,7 +82,4 @@ This project predicts stock movements based on sentiment analysis of Reddit post
 - Provides insights into stock price changes based on sentiment analysis.
 - Demonstrates the correlation between Reddit sentiments and stock movements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
