@@ -58,19 +58,6 @@ This project predicts stock movements based on sentiment analysis of Reddit post
    cd <Stock_Movemen_Analysis>
    ```
 
-2. Run the Jupyter notebook to execute the data scraping, processing, and model training steps in single file.
-    ```bash
-   jupyter Stock notebooks/Stock_Movement_Analysis.ipynb
-   ```
-3. Run the Jupyter notebook to execute the scraping file
-    ```bash
-   jupyter Stock scripts/scraping.ipynb
-   ```
-4. Run the Jupyter notebook to execute the preprocess & modelling file
-    ```bash
-   jupyter Stock scripts/preprocess&modelling.ipynb
-   ```
-
 ## File Details
 - **`Stock_Movement_Analysis.ipynb`**: Main notebook containing all steps from data scraping to evaluation.
 - **`data.csv`**:Contains the scraped Reddit data
